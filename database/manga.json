@@ -1,44 +1,74 @@
-{
-  "manga_id": "dragonslayers-peerless-regression",
-  "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": "멸망한 세계의 회귀자",
-  "status": "Ongoing",
-  "author": "N/A",
-  "artist": "N/A",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Regression",
-    "Shounen"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 4.8,
-  "synopsis": "Kemanusiaan telah musnah oleh serangan Naga. Sebagai pembunuh naga terakhir dan terkuat, dia bertarung hingga napas terakhirnya namun gagal. Namun, sebuah keajaiban terjadi dan dia kembali ke masa lalu sebelum kiamat dimulai. Kini, dengan ingatan dan pengalaman dari kehidupan sebelumnya, dia bersiap untuk memburu para naga sekali lagi dan mengubah takdir dunia.",
-  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/cover.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "Akhir dari Segalanya, dan Permulaan Baru",
-      "images": [
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/ch001/001.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/ch001/002.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/ch001/003.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/ch001/004.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/ch001/005.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "Kesempatan Kedua",
-      "images": [
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/ch002/001.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/ch002/002.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/ch002/003.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/ch002/004.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/dragonslayers-peerless-regression/ch002/005.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "d2f1c4b4fe5ef3c8f03d4d8e291d1d6a363cb018",
+    "title": "Nano Machine",
+    "category": "Action",
+    "fileName": "Nano Machine.cbz",
+    "filePath": "Action/Nano Machine.cbz",
+    "cover": "https://images.unsplash.com/photo-1618336753974-aae8e04506aa?w=400"
+  },
+  {
+    "id": "488aef04fa6f10c9ab7be0a1c0dea40e43e9108b",
+    "title": "Pick Me Up, Infinite Gacha",
+    "category": "Action",
+    "fileName": "Pick Me Up, Infinite Gacha.cbz",
+    "filePath": "Action/Pick Me Up, Infinite Gacha.cbz",
+    "cover": "https://images.unsplash.com/photo-1618336753974-aae8e04506aa?w=400"
+  },
+  {
+    "id": "9271425d7392a6f947647262c71f60eae3628871",
+    "title": "Reformation of the Deadbeat Noble",
+    "category": "Action",
+    "fileName": "Reformation of the Deadbeat Noble.cbz",
+    "filePath": "Action/Reformation of the Deadbeat Noble.cbz",
+    "cover": "https://images.unsplash.com/photo-1618336753974-aae8e04506aa?w=400"
+  },
+  {
+    "id": "d9f08b7d9021753e85f4a153f7a970ea6b922d69",
+    "title": "The Executioner",
+    "category": "Thriller",
+    "fileName": "The Executioner.cbz",
+    "filePath": "Thriller/The Executioner.cbz",
+    "cover": "https://images.unsplash.com/photo-1618336753974-aae8e04506aa?w=400"
+  },
+  {
+    "id": "008f680b958f520fc92a270abdb8bd1eb38319b5",
+    "title": "The Extra’s Academy Survival Guide",
+    "category": "Thriller",
+    "fileName": "The Extra’s Academy Survival Guide.cbz",
+    "filePath": "Thriller/The Extra’s Academy Survival Guide.cbz",
+    "cover": "https://images.unsplash.com/photo-1618336753974-aae8e04506aa?w=400"
+  },
+  {
+    "id": "6d83b22f3a8dbfa28707491c50e3cd6ce61bf751",
+    "title": "Villain To Kill",
+    "category": "Thriller",
+    "fileName": "Villain To Kill.cbz",
+    "filePath": "Thriller/Villain To Kill.cbz",
+    "cover": "https://images.unsplash.com/photo-1618336753974-aae8e04506aa?w=400"
+  },
+  {
+    "id": "d018ced58c2ba5ea24b04c37cfe6671e0b32a82f",
+    "title": "Academy s Genius Swordmaster",
+    "category": "Romance",
+    "fileName": "Academy_s Genius Swordmaster.cbz",
+    "filePath": "Romance/Academy_s Genius Swordmaster.cbz",
+    "cover": "https://images.unsplash.com/photo-1618336753974-aae8e04506aa?w=400"
+  },
+  {
+    "id": "c07cdc4fe89eb70d3fb5e6e2e8b064fd14fe7eda",
+    "title": "Children of the Rune",
+    "category": "Romance",
+    "fileName": "Children of the Rune.cbz",
+    "filePath": "Romance/Children of the Rune.cbz",
+    "cover": "https://images.unsplash.com/photo-1618336753974-aae8e04506aa?w=400"
+  },
+  {
+    "id": "7d1b2739ea130372fe4c2e626138a66795c19480",
+    "title": "Chronicles Of The Martial God s Return",
+    "category": "Romance",
+    "fileName": "Chronicles Of The Martial God_s Return.cbz",
+    "filePath": "Romance/Chronicles Of The Martial God_s Return.cbz",
+    "cover": "https://images.unsplash.com/photo-1618336753974-aae8e04506aa?w=400"
+  }
+]
